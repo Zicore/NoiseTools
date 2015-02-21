@@ -1,7 +1,7 @@
 # Noise Tools
 Perlin Noise Texture Generation
 
-This is a simple texture generator using perin noise functions.
+This is a simple texture generator using perlin noise functions.
 The GUI offers some options for the generation.
 
 Examples
